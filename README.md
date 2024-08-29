@@ -21,6 +21,11 @@ In addition to its robust recommendation capabilities, Cinematic Genius includes
   - **Style and Font**: Options to select different styles and fonts, allowing users to personalize the look and feel of the application.
   - **Mode Features**: Includes a toggle for switching between different modes (e.g., Light Mode, Dark Mode) for varied visual experiences.
   - **Appearance Settings**: Accessible settings button to manage all appearance-related features in one place.
+ 
+  - ![Screenshot 2024-08-30 021543](https://github.com/user-attachments/assets/3ae8317d-5480-4c53-b798-58e7011c0cb2)
+  - ![Screenshot 2024-08-30 021652](https://github.com/user-attachments/assets/4a6dd1ba-8a7f-4213-aeb1-19d279bac497)
+
+
 
 
 ## d) Technologies Used
